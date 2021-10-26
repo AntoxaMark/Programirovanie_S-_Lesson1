@@ -1,0 +1,16 @@
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\bin\Debug\net6.0\HelloConsole.exe
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\bin\Debug\net6.0\HelloConsole.deps.json
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\bin\Debug\net6.0\HelloConsole.runtimeconfig.json
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\bin\Debug\net6.0\HelloConsole.dll
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\bin\Debug\net6.0\ref\HelloConsole.dll
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\bin\Debug\net6.0\HelloConsole.pdb
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\HelloConsole.GlobalUsings.g.cs
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\HelloConsole.dll
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\ref\HelloConsole.dll
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\HelloConsole.pdb
+C:\Users\Антон\Desktop\Programirovanie_S#_Lesson1\HelloConsole\obj\Debug\net6.0\HelloConsole.genruntimeconfig.cache
